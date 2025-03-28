@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alamin-Ahammed
-- 🤓 I know <b>HTML, CSS, Javascript, React, Firebase, Material UI. </b>
-- 👀 I’m interested in web-development,ethical hacking, and also in competitive programming.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ Right Now, I’m looking to collaborate on React based project.
+- 🤓 I am a <b> web dev. </b>
+- 👀 I’m interested in Web-development, Ethical hacking, Embeded systems, Robotics, AI & machine learning and also in competitive programming.
+- 🌱 I’m currently learning how to serve to humanity with these knowledges.
+- 💞️ Right Now, I’m looking to collaborate on any web-app based project.
 - 📫 How to reach me ?
 - simple......
 - ahammedalamin2002@gmail.com
